@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ilikebuildingthings
+- 👀 I’m interested in: coding, automating, hacking
+- 🌱 I’m currently learning container security, DevSecOps things and stuff
+- ⚡ Fun fact: uhhhh, 42?
